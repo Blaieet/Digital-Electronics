@@ -1,0 +1,11 @@
+{C:/Blai/Treballs, Pràctiques 1r de Carrera/DDB/Pràctiques/Pràctica 3/comp2bits.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:\Blai\Treballs, Pràctiques 1r de Carrera\DDB\Pràctiques\Pràctica 3\comp2bits.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Blai/Treballs, Pràctiques 1r de Carrera/DDB/Pràctiques/Pràctica 3/work/_lib.qdb): unable to open database file
+mtilibWrite(): INTERNAL ERROR: Unexpected null object encountered
+** Fatal: (vcom-9) Problem while writing token file "C:/Blai/Treballs, Pràctiques 1r de Carrera/DDB/Pràctiques/Pràctica 3/work/_temp/vcom4ik2cq".
+
+El sistema no puede encontrar la ruta especificada. (GetLastError() = 3)
+** Error: C:\Blai\Treballs, Pràctiques 1r de Carrera\DDB\Pràctiques\Pràctica 3\comp2bits.vhd(2): VHDL Compiler exiting
+
+} {9.0 10.0} {}}
